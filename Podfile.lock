@@ -1,0 +1,15 @@
+PODS:
+  - AMap3DMap (4.1.0):
+    - AMapFoundation (~> 1.1)
+  - AMapFoundation (1.1.0)
+
+DEPENDENCIES:
+  - AMap3DMap
+
+SPEC CHECKSUMS:
+  AMap3DMap: 048e1ef05ce87a486d6bf4f09a4e2285356b3a16
+  AMapFoundation: 15db20567e6512422a086a01b42a88b145bc2500
+
+PODFILE CHECKSUM: e0ac5e6b03d508228e64641ed8b11f9bfffc4b52
+
+COCOAPODS: 1.0.1
